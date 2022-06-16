@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @raghavmaheshwri
 - 👀 I’m interested in web and app development 
-- 🌱 I’m currently learning programming 
+- 📚 I’m currently learning programming 
